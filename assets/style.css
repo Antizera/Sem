@@ -1,0 +1,27 @@
+body{margin: 0%;
+    background-color: aquamarine;
+    font-family: 'Roboto', sans-serif;
+    line-height: 15px;
+    color: black;
+}
+
+
+.Intro a{
+    text-decoration: none;
+
+}
+
+.List{
+    margin: 0%;
+    line-height: 15px;
+    color: indigo;
+}
+
+
+.Table{
+    margin-left: 0%;
+    line-height: 15px;
+    color: maroon;
+}
+
+th, td {border: 3px solid red;}
